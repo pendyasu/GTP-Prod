@@ -1,0 +1,39 @@
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Debug\XMLtoGAPP.exe
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Debug\ChilkatDotNet4.dll
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.Resources.resources
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Debug\XML_TO_SQL.vbproj.GenerateResource.Cache
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.exe
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.xml
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.pdb
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Debug\XMLtoGAPP.pdb
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Debug\XMLtoGAPP.xml
+D:\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.exe
+D:\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.xml
+D:\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.pdb
+D:\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Debug\XMLtoGAPP.exe
+D:\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Debug\XMLtoGAPP.pdb
+D:\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Debug\XMLtoGAPP.xml
+D:\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.Resources.resources
+D:\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XML_TO_SQL.vbproj.GenerateResource.Cache
+D:\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XML_TO_SQL.vbprojResolveAssemblyReference.cache
+z:\TeamREMIS\REMISCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.exe
+z:\TeamREMIS\REMISCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.xml
+z:\TeamREMIS\REMISCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.pdb
+c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.exe
+c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.xml
+c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.pdb
+c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Debug\XMLtoGAPP.exe
+c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Debug\XMLtoGAPP.pdb
+c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Debug\XMLtoGAPP.xml
+c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XML_TO_SQL.vbprojResolveAssemblyReference.cache
+c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.Resources.resources
+c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XML_TO_SQL.vbproj.GenerateResource.Cache
+d:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.exe
+d:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.xml
+d:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.pdb
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Debug\XMLtoGAPP.exe
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Debug\XMLtoGAPP.pdb
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Debug\XMLtoGAPP.xml
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XML_TO_SQL.vbprojResolveAssemblyReference.cache
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XMLtoGAPP.Resources.resources
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Debug\XML_TO_SQL.vbproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+2/18/2019 12:32:15 PM --- System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at XMLtoGAPP.Module1.Main() in c:\Tuan\XMLtoGAPP - NoChilkat\XMLtoGAPP\Module1.vb:line 380

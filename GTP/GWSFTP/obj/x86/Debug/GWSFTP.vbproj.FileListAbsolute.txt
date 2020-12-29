@@ -1,0 +1,622 @@
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\bin\Debug\GWSFTP.exe
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\bin\Debug\GWSFTP.xml
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\obj\x86\Debug\GWSFTP.Form1.resources
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\tuand\AppData\Local\Temporary Projects\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.xml
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\EncryptionClass.dll
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+C:\Users\tuand\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.xml
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\EncryptionClass.dll
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tuando\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\GTP\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe.config
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.exe
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.xml
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+E:\GTP\GWSFTP\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+E:\GTP\GWSFTP\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+E:\GTP\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe
+E:\GTP\GWSFTP\GWSFTP\bin\Debug\GWSFTP.pdb
+E:\GTP\GWSFTP\GWSFTP\bin\Debug\GWSFTP.xml
+E:\GTP\GWSFTP\GWSFTP\bin\Debug\EncryptionClass.dll
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\GTP\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe.config
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.exe
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.xml
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+J:\GTP\GWSFTP\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+J:\GTP\GWSFTP\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+J:\GTP\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe
+J:\GTP\GWSFTP\GWSFTP\bin\Debug\GWSFTP.pdb
+J:\GTP\GWSFTP\GWSFTP\bin\Debug\GWSFTP.xml
+J:\GTP\GWSFTP\GWSFTP\bin\Debug\EncryptionClass.dll
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\GTP\GWSFTP\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.exe
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\GWSFTP.xml
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP\GWSFTP\bin\Debug\EncryptionClass.dll
+E:\GTP\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+I:\GTP\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+I:\GTP\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+I:\GTP\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+I:\GTP\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+I:\GTP\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+I:\GTP\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+I:\GTP\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+I:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+E:\GTP\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+E:\GTP\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+E:\GTP\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+E:\GTP\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+E:\GTP\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+E:\GTP\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tuan\Documents\Visual Studio 2010\Tuan\GTP\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\Users\tuan\Documents\Visual Studio 2010\Tuan\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\tuan\Documents\Visual Studio 2010\Tuan\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\tuan\Documents\Visual Studio 2010\Tuan\GTP\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\huyen\Documents\Visual Studio 2010\GTP-Backup010512\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\Users\Tuan\Documents\Visual Studio 2010\Projects\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+J:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+I:\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+E:\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\ChilkatDotNet4.dll
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\Users\Tuan\Desktop\GTP-Backup050212\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\GTPCodes\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+E:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+E:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+E:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+E:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+E:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+E:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+E:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+E:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+E:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\ChilkatDotNet4.dll
+K:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+K:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+K:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+K:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+K:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+K:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+K:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+K:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\Users\Tuan\Documents\USB Backup\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+E:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+H:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+H:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+H:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+H:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+G:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+G:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+G:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+G:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+G:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+G:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+G:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+G:\Version1.0.6\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+G:\Version1.0.6\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+E:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+E:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+E:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+E:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+E:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+E:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+E:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\ChilkatDotNet4.dll
+E:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+E:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+G:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+G:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+G:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+G:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+G:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+G:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+G:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+G:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+G:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+F:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+F:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+F:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+F:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+H:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+E:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+H:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+H:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+H:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+H:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+H:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+H:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+H:\Version1.07\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+C:\Users\Tuan\Desktop\Version1.07\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+G:\Version1.07_New\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+G:\Version1.07_New\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+G:\Version1.07_New\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+G:\Version1.07_New\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+G:\Version1.07_New\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+G:\Version1.07_New\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+G:\Version1.07_New\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+G:\Version1.07_New\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+G:\Version1.07_New\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\ChilkatDotNet4.dll
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+E:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmPendingTransaction.resources
+G:\Version1.07_VS2010\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmPendingTransaction.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\ChilkatDotNet4.dll
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmPendingTransaction.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmPendingTransaction.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe.config
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.exe
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.xml
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.pdb
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\bin\Debug\Database\GWSFTP.mdb
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\Database\GWSFTP.mdb
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.exe
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.pdb
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\GWSFTP.xml
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\EncryptionClass.dll
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Debug\Ionic.Zip.dll
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbprojResolveAssemblyReference.cache
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmAction.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmCreateUser.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmPendingTransaction.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUpload.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmMainApp.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmLogin.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.frmUploadHistory.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.Resources.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Debug\GWSFTP.vbproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.exe
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.xml
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.pdb
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Release\XMLtoGAPP.exe
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Release\XMLtoGAPP.pdb
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Release\XMLtoGAPP.xml
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Release\ChilkatDotNet4.dll
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.Resources.resources
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XML_TO_SQL.vbproj.GenerateResource.Cache
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.exe
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.xml
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.pdb
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Release\XMLtoGAPP.exe
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Release\XMLtoGAPP.pdb
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\bin\Release\XMLtoGAPP.xml
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Release\XML_TO_SQL.vbprojResolveAssemblyReference.cache
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.Resources.resources
+D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\obj\x86\Release\XML_TO_SQL.vbproj.GenerateResource.Cache

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <ASideConfigSettings>
+    <ServerSettings>
+      <ServerTransactionId></ServerTransactionId>
+      <TeamList>38</TeamList>
+      <ASideRoot>\\Gapp-ftp\gapp_teams\</ASideRoot>
+      <PROServer>\\GAPP-PRO4\GWS Files\_LogFiles\</PROServer>
+      <DBConnection>Data Source=GAPP-FTP;Initial Catalog=GAPP;user id=sa;password=gtp6B--ds$U</DBConnection>
+      
+      <BSideWaitTime>07:00</BSideWaitTime>
+    </ServerSettings>
+    <FolderSettings>
+      <XMLFolder>\\Gapp-ftp\gapp_teams\TeamREMIS\GTPXMLFiles\</XMLFolder>
+      <Imported>_Imported</Imported>
+      <Orphaned>_Orphaned</Orphaned>
+      <Error>_Error</Error>
+      <CopiedFromFTP>_CopiedFromFTP</CopiedFromFTP>
+      <Extracted>_Extracted</Extracted>
+      <XMLtoGTP>XMLtoGTP Console App location</XMLtoGTP>
+    </FolderSettings>
+    <FileSettings>
+      <ScannerFiles>0098,0998,3010,3011,3020,3021</ScannerFiles>
+    </FileSettings>
+  </ASideConfigSettings>
+  <BSideConfigSettings>
+    <ServerTransactionId>313</ServerTransactionId>
+    <TeamList>23,26</TeamList>
+    <BSideRoot>\\Gapp-llbs\gapp-llbs\</BSideRoot>
+    <PROServer>\\GAPP-PRO1\GWS Files\_LogFiles\</PROServer>
+  </BSideConfigSettings>
+</ROOT>
+

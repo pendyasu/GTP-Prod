@@ -1,0 +1,11 @@
+8/17/2020 9:50:09 AM --- System.Net.WebException: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+   at System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   at System.Net.FtpWebRequest.RequestCallback(Object obj)
+   at System.Net.CommandStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   at System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   at System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   at System.Net.FtpWebRequest.GetResponse()
+   at XMLtoGAPP.Module1.FTPRenameFileNet(String FileToRename, String NewName, String ftp_url, String Username, String Password) in D:\Tuan\SourceCode\XMLtoGAPP - NoChilkat\XMLtoGAPP\Module1.vb:line 987

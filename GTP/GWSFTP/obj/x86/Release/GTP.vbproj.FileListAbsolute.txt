@@ -1,0 +1,218 @@
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\bin\Debug\Database\GWSFTP.mdb
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Database\GWSFTP.mdb
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\EncryptionClass.dll
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Ionic.Zip.dll
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbprojResolveAssemblyReference.cache
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbproj.GenerateResource.Cache
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe.config
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.pdb
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.xml
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmAction.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmCreateUser.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmPendingTransaction.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUpload.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmMainApp.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmLogin.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUploadHistory.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.Resources.resources
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.exe
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.xml
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.pdb
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe.config
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.exe
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.xml
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.pdb
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\bin\Debug\Database\GWSFTP.mdb
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Database\GWSFTP.mdb
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.pdb
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.xml
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\ChilkatDotNet4.dll
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\EncryptionClass.dll
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Ionic.Zip.dll
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbprojResolveAssemblyReference.cache
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmAction.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmCreateUser.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmPendingTransaction.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUpload.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmMainApp.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmLogin.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUploadHistory.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.Resources.resources
+E:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbproj.GenerateResource.Cache
+E:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\SevenZipSharp.dll
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\SevenZipSharp.dll
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe.config
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.exe
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.xml
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.pdb
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\bin\Debug\Database\GWSFTP.mdb
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Database\GWSFTP.mdb
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.pdb
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.xml
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\EncryptionClass.dll
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Ionic.Zip.dll
+F:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\SevenZipSharp.dll
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbprojResolveAssemblyReference.cache
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmAction.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmCreateUser.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmPendingTransaction.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUpload.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmMainApp.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmLogin.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUploadHistory.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.Resources.resources
+F:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbproj.GenerateResource.Cache
+H:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe.config
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.exe
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.xml
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.pdb
+H:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\bin\Debug\Database\GWSFTP.mdb
+H:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Database\GWSFTP.mdb
+H:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe
+H:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.pdb
+H:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.xml
+H:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\EncryptionClass.dll
+H:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Ionic.Zip.dll
+H:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\SevenZipSharp.dll
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbprojResolveAssemblyReference.cache
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmAction.resources
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmCreateUser.resources
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmPendingTransaction.resources
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUpload.resources
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmMainApp.resources
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmLogin.resources
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUploadHistory.resources
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.Resources.resources
+H:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbproj.GenerateResource.Cache
+G:\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\System.Data.SQLite.dll
+G:\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmTest.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe.config
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.exe
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.xml
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.pdb
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\bin\Debug\Database\GWSFTP.mdb
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Database\GWSFTP.mdb
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.pdb
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\GWSFTP.xml
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\EncryptionClass.dll
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\Ionic.Zip.dll
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\SevenZipSharp.dll
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\bin\Release\System.Data.SQLite.dll
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbprojResolveAssemblyReference.cache
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmAction.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmCreateUser.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmPendingTransaction.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmTest.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUpload.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmMainApp.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmLogin.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUploadHistory.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.Resources.resources
+C:\Users\Tuan\Desktop\Version13.2.1\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbproj.GenerateResource.Cache
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe.config
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.exe
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.xml
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.pdb
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\bin\Debug\Database\GWSFTP.mdb
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\Database\GWSFTP.mdb
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.pdb
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.xml
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\EncryptionClass.dll
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\Ionic.Zip.dll
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\SevenZipSharp.dll
+G:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\System.Data.SQLite.dll
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmAction.resources
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmCreateUser.resources
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmPendingTransaction.resources
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmTest.resources
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUpload.resources
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmMainApp.resources
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmLogin.resources
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUploadHistory.resources
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.Resources.resources
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbproj.GenerateResource.Cache
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe.config
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.exe
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.xml
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.pdb
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\bin\Debug\Database\GWSFTP.mdb
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\Database\GWSFTP.mdb
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.pdb
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.xml
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\EncryptionClass.dll
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\Ionic.Zip.dll
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\SevenZipSharp.dll
+F:\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\System.Data.SQLite.dll
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbprojResolveAssemblyReference.cache
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmAction.resources
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmCreateUser.resources
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmPendingTransaction.resources
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmTest.resources
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUpload.resources
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmMainApp.resources
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmLogin.resources
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUploadHistory.resources
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.Resources.resources
+F:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbproj.GenerateResource.Cache
+G:\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbprojResolveAssemblyReference.cache
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe.config
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.exe
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.xml
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.pdb
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\bin\Debug\Database\GWSFTP.mdb
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\Database\GWSFTP.mdb
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.exe
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.pdb
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\GWSFTP.xml
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\EncryptionClass.dll
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\Ionic.Zip.dll
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\SevenZipSharp.dll
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\bin\Release\System.Data.SQLite.dll
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmAction.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmCreateUser.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmPendingTransaction.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmTest.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUpload.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmMainApp.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmLogin.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmUploadHistory.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.Resources.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbproj.GenerateResource.Cache
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmShadowPassword.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmConfigLogIn.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GWSFTP.frmPCAP.resources
+C:\Tuan\GTPCurrent\GWSFTP3\GWSFTP\obj\x86\Release\GTP.vbprojResolveAssemblyReference.cache
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\bin\Debug\Database\GWSFTP.mdb
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\Database\GWSFTP.mdb
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\EncryptionClass.dll
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\Ionic.Zip.dll
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\SevenZipSharp.dll
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\System.Data.SQLite.dll
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmAction.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmConfigLogIn.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmCreateUser.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmPCAP.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmPendingTransaction.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmShadowPassword.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmTest.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmUpload.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmMainApp.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmLogin.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.frmUploadHistory.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.Resources.resources
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GTP.vbproj.GenerateResource.Cache
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\GWSFTP.exe.config
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\GWSFTP.exe
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\GWSFTP.pdb
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\GWSFTP.xml
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.exe
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.xml
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GWSFTP.pdb
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\bin\Release\EncryptDecrypt.dll
+C:\Users\sundeepp\Desktop\GTP Original\GTP\GWSFTP\obj\x86\Release\GTP.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Release\XMLtoGAPP.exe
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Release\XMLtoGAPP.pdb
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Release\XMLtoGAPP.xml
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\bin\Release\ChilkatDotNet4.dll
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.Resources.resources
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.vbproj.GenerateResource.Cache
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.exe
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.xml
+D:\SourceCode\XMLtoGAPP\XMLtoGAPP\obj\x86\Release\XMLtoGAPP.pdb

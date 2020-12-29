@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="REMISModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="REMISModelStoreContainer">
+          <EntitySet Name="tblCarrier" EntityType="REMISModel.Store.tblCarrier" store:Type="Tables" store:Schema="dbo" store:Name="tblCarrier">
+            <DefiningQuery>SELECT 
+      [tblCarrier].[id_carrier] AS [id_carrier], 
+      [tblCarrier].[name_carrier] AS [name_carrier], 
+      [tblCarrier].[isCarrier] AS [isCarrier], 
+      [tblCarrier].[VoiceTech] AS [VoiceTech], 
+      [tblCarrier].[DataTech] AS [DataTech], 
+      [tblCarrier].[DataTechList] AS [DataTechList], 
+      [tblCarrier].[ColorCode] AS [ColorCode]
+      FROM [dbo].[tblCarrier] AS [tblCarrier]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="tblFTPFile" EntityType="REMISModel.Store.tblFTPFile" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="tblFTPTransaction" EntityType="REMISModel.Store.tblFTPTransaction" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="tblGTPIssue" EntityType="REMISModel.Store.tblGTPIssue" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="tblMarket" EntityType="REMISModel.Store.tblMarket" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="tblStatusInfo" EntityType="REMISModel.Store.tblStatusInfo" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="View_AllFiles" EntityType="REMISModel.Store.View_AllFiles" store:Type="Views" store:Schema="dbo" store:Name="View_AllFiles">
+            <DefiningQuery>SELECT 
+      [View_AllFiles].[id_server_transaction] AS [id_server_transaction], 
+      [View_AllFiles].[id_client_transaction] AS [id_client_transaction], 
+      [View_AllFiles].[transaction_type] AS [transaction_type], 
+      [View_AllFiles].[date_started] AS [date_started], 
+      [View_AllFiles].[date_end] AS [date_end], 
+      [View_AllFiles].[username] AS [username], 
+      [View_AllFiles].[isCompleted] AS [isCompleted], 
+      [View_AllFiles].[number_of_run] AS [number_of_run], 
+      [View_AllFiles].[id_market] AS [id_market], 
+      [View_AllFiles].[ftp_url] AS [ftp_url], 
+      [View_AllFiles].[ip_address] AS [ip_address], 
+      [View_AllFiles].[host_name] AS [host_name], 
+      [View_AllFiles].[market_name] AS [market_name], 
+      [View_AllFiles].[transaction_status] AS [transaction_status], 
+      [View_AllFiles].[time_moveFiles] AS [time_moveFiles], 
+      [View_AllFiles].[DBName] AS [DBName], 
+      [View_AllFiles].[total_file_uploaded] AS [total_file_uploaded], 
+      [View_AllFiles].[id_server_file] AS [id_server_file], 
+      [View_AllFiles].[file_name] AS [file_name], 
+      [View_AllFiles].[date_created] AS [date_created], 
+      [View_AllFiles].[date_finished] AS [date_finished], 
+      [View_AllFiles].[is_finished] AS [is_finished], 
+      [View_AllFiles].[file_status] AS [file_status], 
+      [View_AllFiles].[time_moved_NQWeb] AS [time_moved_NQWeb]
+      FROM [dbo].[View_AllFiles] AS [View_AllFiles]</DefiningQuery>
+          </EntitySet>
+          <AssociationSet Name="FK_tblFTPFile_tblFTPTransaction" Association="REMISModel.Store.FK_tblFTPFile_tblFTPTransaction">
+            <End Role="tblFTPTransaction" EntitySet="tblFTPTransaction" />
+            <End Role="tblFTPFile" EntitySet="tblFTPFile" />
+          </AssociationSet>
+        </EntityContainer>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'REMIS.dbo.tblCarrier' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="tblCarrier">
+          <Key>
+            <PropertyRef Name="id_carrier" />
+          </Key>
+          <Property Name="id_carrier" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="name_carrier" Type="nvarchar" MaxLength="100" />
+          <Property Name="isCarrier" Type="bit" />
+          <Property Name="VoiceTech" Type="nvarchar" MaxLength="50" />
+          <Property Name="DataTech" Type="nvarchar" MaxLength="50" />
+          <Property Name="DataTechList" Type="nvarchar" MaxLength="50" />
+          <Property Name="ColorCode" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tblFTPFile">
+          <Key>
+            <PropertyRef Name="id_server_file" />
+          </Key>
+          <Property Name="id_server_file" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="id_server_transaction" Type="int" />
+          <Property Name="id_client_transaction" Type="int" />
+          <Property Name="file_name" Type="nvarchar" MaxLength="255" />
+          <Property Name="date_created" Type="datetime" />
+          <Property Name="date_finished" Type="datetime" />
+          <Property Name="is_finished" Type="bit" />
+          <Property Name="file_status" Type="int" />
+          <Property Name="time_moved_NQWeb" Type="datetime" />
+        </EntityType>
+        <EntityType Name="tblFTPTransaction">
+          <Key>
+            <PropertyRef Name="id_server_transaction" />
+          </Key>
+          <Property Name="id_server_transaction" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="id_client_transaction" Type="int" Nullable="false" />
+          <Property Name="transaction_type" Type="bit" />
+          <Property Name="date_started" Type="datetime" />
+          <Property Name="date_end" Type="datetime" />
+          <Property Name="username" Type="nvarchar" MaxLength="50" />
+          <Property Name="isCompleted" Type="bit" />
+          <Property Name="number_of_run" Type="smallint" />
+          <Property Name="number_of_app_fail" Type="smallint" />
+          <Property Name="id_market" Type="int" />
+          <Property Name="ftp_url" Type="nvarchar" MaxLength="255" />
+          <Property Name="ip_address" Type="nvarchar" MaxLength="50" />
+          <Property Name="host_name" Type="nvarchar" MaxLength="50" />
+          <Property Name="market_name" Type="nvarchar" MaxLength="255" />
+          <Property Name="transaction_status" Type="smallint" />
+          <Property Name="time_moveFiles" Type="datetime" />
+          <Property Name="DBName" Type="nvarchar" MaxLength="100" />
+          <Property Name="total_file_uploaded" Type="int" />
+        </EntityType>
+        <EntityType Name="tblGTPIssue">
+          <Key>
+            <PropertyRef Name="id_issue" />
+          </Key>
+          <Property Name="id_issue" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="issue_title" Type="nvarchar" MaxLength="255" />
+          <Property Name="issue_detail" Type="nvarchar(max)" />
+          <Property Name="issue_file_upload" Type="nvarchar" MaxLength="100" />
+          <Property Name="username" Type="nvarchar" MaxLength="50" />
+          <Property Name="date_created" Type="datetime" />
+          <Property Name="team_name" Type="nvarchar" MaxLength="50" />
+          <Property Name="market_name" Type="nvarchar" MaxLength="50" />
+          <Property Name="campaign" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tblMarket">
+          <Key>
+            <PropertyRef Name="id_market" />
+          </Key>
+          <Property Name="id_market" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="name_market" Type="nvarchar" MaxLength="100" />
+          <Property Name="population" Type="nvarchar" MaxLength="50" />
+          <Property Name="market_type" Type="nvarchar" MaxLength="100" />
+          <Property Name="market_region" Type="nvarchar" MaxLength="50" />
+          <Property Name="market_ed" Type="nvarchar" MaxLength="50" />
+          <Property Name="sub_market" Type="nvarchar" MaxLength="100" />
+          <Property Name="market_status" Type="smallint" />
+        </EntityType>
+        <EntityType Name="tblStatusInfo">
+          <Key>
+            <PropertyRef Name="id_status" />
+          </Key>
+          <Property Name="id_status" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="status_code" Type="int" />
+          <Property Name="status_name" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'REMIS.dbo.View_AllFiles' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="View_AllFiles">
+          <Key>
+            <PropertyRef Name="id_server_transaction" />
+            <PropertyRef Name="id_client_transaction" />
+            <PropertyRef Name="id_server_file" />
+          </Key>
+          <Property Name="id_server_transaction" Type="int" Nullable="false" />
+          <Property Name="id_client_transaction" Type="int" Nullable="false" />
+          <Property Name="transaction_type" Type="bit" />
+          <Property Name="date_started" Type="datetime" />
+          <Property Name="date_end" Type="datetime" />
+          <Property Name="username" Type="nvarchar" MaxLength="50" />
+          <Property Name="isCompleted" Type="bit" />
+          <Property Name="number_of_run" Type="smallint" />
+          <Property Name="id_market" Type="int" />
+          <Property Name="ftp_url" Type="nvarchar" MaxLength="255" />
+          <Property Name="ip_address" Type="nvarchar" MaxLength="50" />
+          <Property Name="host_name" Type="nvarchar" MaxLength="50" />
+          <Property Name="market_name" Type="nvarchar" MaxLength="255" />
+          <Property Name="transaction_status" Type="smallint" />
+          <Property Name="time_moveFiles" Type="datetime" />
+          <Property Name="DBName" Type="nvarchar" MaxLength="100" />
+          <Property Name="total_file_uploaded" Type="int" />
+          <Property Name="id_server_file" Type="int" Nullable="false" />
+          <Property Name="file_name" Type="nvarchar" MaxLength="255" />
+          <Property Name="date_created" Type="datetime" />
+          <Property Name="date_finished" Type="datetime" />
+          <Property Name="is_finished" Type="bit" />
+          <Property Name="file_status" Type="smallint" />
+          <Property Name="time_moved_NQWeb" Type="datetime" />
+        </EntityType>
+        <Association Name="FK_tblFTPFile_tblFTPTransaction">
+          <End Role="tblFTPTransaction" Type="REMISModel.Store.tblFTPTransaction" Multiplicity="0..1" />
+          <End Role="tblFTPFile" Type="REMISModel.Store.tblFTPFile" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblFTPTransaction">
+              <PropertyRef Name="id_server_transaction" />
+            </Principal>
+            <Dependent Role="tblFTPFile">
+              <PropertyRef Name="id_server_transaction" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="REMISModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="REMISEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tblCarriers" EntityType="REMISModel.tblCarrier" />
+          <EntitySet Name="tblGTPIssues" EntityType="REMISModel.tblGTPIssue" />
+          <EntitySet Name="tblMarkets" EntityType="REMISModel.tblMarket" />
+          <EntitySet Name="tblStatusInfoes" EntityType="REMISModel.tblStatusInfo" />
+          <EntitySet Name="View_AllFiles" EntityType="REMISModel.View_AllFiles" />
+          <EntitySet Name="tblFTPFiles" EntityType="REMISModel.tblFTPFile" />
+          <EntitySet Name="tblFTPTransactions" EntityType="REMISModel.tblFTPTransaction" />
+          <AssociationSet Name="FK_tblFTPFile_tblFTPTransaction" Association="REMISModel.FK_tblFTPFile_tblFTPTransaction">
+            <End Role="tblFTPTransaction" EntitySet="tblFTPTransactions" />
+            <End Role="tblFTPFile" EntitySet="tblFTPFiles" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="tblCarrier">
+          <Key>
+            <PropertyRef Name="id_carrier" />
+          </Key>
+          <Property Name="id_carrier" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name_carrier" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="isCarrier" Type="Boolean" />
+          <Property Name="VoiceTech" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="DataTech" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="DataTechList" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="ColorCode" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="tblGTPIssue">
+          <Key>
+            <PropertyRef Name="id_issue" />
+          </Key>
+          <Property Name="id_issue" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="issue_title" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="issue_detail" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="issue_file_upload" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="username" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="date_created" Type="DateTime" />
+          <Property Name="team_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="market_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="campaign" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="tblMarket">
+          <Key>
+            <PropertyRef Name="id_market" />
+          </Key>
+          <Property Name="id_market" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name_market" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="population" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="market_type" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="market_region" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="market_ed" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="sub_market" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="market_status" Type="Int16" />
+        </EntityType>
+        <EntityType Name="tblStatusInfo">
+          <Key>
+            <PropertyRef Name="id_status" />
+          </Key>
+          <Property Name="id_status" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="status_code" Type="Int32" />
+          <Property Name="status_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="View_AllFiles">
+          <Key>
+            <PropertyRef Name="id_server_transaction" />
+            <PropertyRef Name="id_client_transaction" />
+            <PropertyRef Name="id_server_file" />
+          </Key>
+          <Property Name="id_server_transaction" Type="Int32" Nullable="false" />
+          <Property Name="id_client_transaction" Type="Int32" Nullable="false" />
+          <Property Name="transaction_type" Type="Boolean" />
+          <Property Name="date_started" Type="DateTime" />
+          <Property Name="date_end" Type="DateTime" />
+          <Property Name="username" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="isCompleted" Type="Boolean" />
+          <Property Name="number_of_run" Type="Int16" />
+          <Property Name="id_market" Type="Int32" />
+          <Property Name="ftp_url" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="ip_address" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="host_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="market_name" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="transaction_status" Type="Int16" />
+          <Property Name="time_moveFiles" Type="DateTime" />
+          <Property Name="DBName" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="total_file_uploaded" Type="Int32" />
+          <Property Name="id_server_file" Type="Int32" Nullable="false" />
+          <Property Name="file_name" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="date_created" Type="DateTime" />
+          <Property Name="date_finished" Type="DateTime" />
+          <Property Name="is_finished" Type="Boolean" />
+          <Property Name="file_status" Type="Int16" />
+          <Property Name="time_moved_NQWeb" Type="DateTime" />
+        </EntityType>
+        <EntityType Name="tblFTPFile">
+          <Key>
+            <PropertyRef Name="id_server_file" />
+          </Key>
+          <Property Type="Int32" Name="id_server_file" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="Int32" Name="id_server_transaction" />
+          <Property Type="Int32" Name="id_client_transaction" />
+          <Property Type="String" Name="file_name" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="DateTime" Name="date_created" />
+          <Property Type="DateTime" Name="date_finished" />
+          <Property Type="Boolean" Name="is_finished" />
+          <Property Type="Int32" Name="file_status" />
+          <Property Type="DateTime" Name="time_moved_NQWeb" />
+          <NavigationProperty Name="tblFTPTransaction" Relationship="REMISModel.FK_tblFTPFile_tblFTPTransaction" FromRole="tblFTPFile" ToRole="tblFTPTransaction" />
+        </EntityType>
+        <EntityType Name="tblFTPTransaction">
+          <Key>
+            <PropertyRef Name="id_server_transaction" />
+          </Key>
+          <Property Type="Int32" Name="id_server_transaction" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="Int32" Name="id_client_transaction" Nullable="false" />
+          <Property Type="Boolean" Name="transaction_type" />
+          <Property Type="DateTime" Name="date_started" />
+          <Property Type="DateTime" Name="date_end" />
+          <Property Type="String" Name="username" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Type="Boolean" Name="isCompleted" />
+          <Property Type="Int16" Name="number_of_run" />
+          <Property Type="Int16" Name="number_of_app_fail" />
+          <Property Type="Int32" Name="id_market" />
+          <Property Type="String" Name="ftp_url" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="ip_address" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="host_name" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="market_name" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="Int16" Name="transaction_status" />
+          <Property Type="DateTime" Name="time_moveFiles" />
+          <Property Type="String" Name="DBName" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Type="Int32" Name="total_file_uploaded" />
+          <NavigationProperty Name="tblFTPFiles" Relationship="REMISModel.FK_tblFTPFile_tblFTPTransaction" FromRole="tblFTPTransaction" ToRole="tblFTPFile" />
+        </EntityType>
+        <Association Name="FK_tblFTPFile_tblFTPTransaction">
+          <End Type="REMISModel.tblFTPTransaction" Role="tblFTPTransaction" Multiplicity="0..1" />
+          <End Type="REMISModel.tblFTPFile" Role="tblFTPFile" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblFTPTransaction">
+              <PropertyRef Name="id_server_transaction" />
+            </Principal>
+            <Dependent Role="tblFTPFile">
+              <PropertyRef Name="id_server_transaction" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="REMISModelStoreContainer" CdmEntityContainer="REMISEntities">
+          <EntitySetMapping Name="tblCarriers">
+            <EntityTypeMapping TypeName="REMISModel.tblCarrier">
+              <MappingFragment StoreEntitySet="tblCarrier">
+                <ScalarProperty Name="id_carrier" ColumnName="id_carrier" />
+                <ScalarProperty Name="name_carrier" ColumnName="name_carrier" />
+                <ScalarProperty Name="isCarrier" ColumnName="isCarrier" />
+                <ScalarProperty Name="VoiceTech" ColumnName="VoiceTech" />
+                <ScalarProperty Name="DataTech" ColumnName="DataTech" />
+                <ScalarProperty Name="DataTechList" ColumnName="DataTechList" />
+                <ScalarProperty Name="ColorCode" ColumnName="ColorCode" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblGTPIssues">
+            <EntityTypeMapping TypeName="REMISModel.tblGTPIssue">
+              <MappingFragment StoreEntitySet="tblGTPIssue">
+                <ScalarProperty Name="id_issue" ColumnName="id_issue" />
+                <ScalarProperty Name="issue_title" ColumnName="issue_title" />
+                <ScalarProperty Name="issue_detail" ColumnName="issue_detail" />
+                <ScalarProperty Name="issue_file_upload" ColumnName="issue_file_upload" />
+                <ScalarProperty Name="username" ColumnName="username" />
+                <ScalarProperty Name="date_created" ColumnName="date_created" />
+                <ScalarProperty Name="team_name" ColumnName="team_name" />
+                <ScalarProperty Name="market_name" ColumnName="market_name" />
+                <ScalarProperty Name="campaign" ColumnName="campaign" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblMarkets">
+            <EntityTypeMapping TypeName="REMISModel.tblMarket">
+              <MappingFragment StoreEntitySet="tblMarket">
+                <ScalarProperty Name="id_market" ColumnName="id_market" />
+                <ScalarProperty Name="name_market" ColumnName="name_market" />
+                <ScalarProperty Name="population" ColumnName="population" />
+                <ScalarProperty Name="market_type" ColumnName="market_type" />
+                <ScalarProperty Name="market_region" ColumnName="market_region" />
+                <ScalarProperty Name="market_ed" ColumnName="market_ed" />
+                <ScalarProperty Name="sub_market" ColumnName="sub_market" />
+                <ScalarProperty Name="market_status" ColumnName="market_status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblStatusInfoes">
+            <EntityTypeMapping TypeName="REMISModel.tblStatusInfo">
+              <MappingFragment StoreEntitySet="tblStatusInfo">
+                <ScalarProperty Name="id_status" ColumnName="id_status" />
+                <ScalarProperty Name="status_code" ColumnName="status_code" />
+                <ScalarProperty Name="status_name" ColumnName="status_name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="View_AllFiles">
+            <EntityTypeMapping TypeName="REMISModel.View_AllFiles">
+              <MappingFragment StoreEntitySet="View_AllFiles">
+                <ScalarProperty Name="id_server_transaction" ColumnName="id_server_transaction" />
+                <ScalarProperty Name="id_client_transaction" ColumnName="id_client_transaction" />
+                <ScalarProperty Name="transaction_type" ColumnName="transaction_type" />
+                <ScalarProperty Name="date_started" ColumnName="date_started" />
+                <ScalarProperty Name="date_end" ColumnName="date_end" />
+                <ScalarProperty Name="username" ColumnName="username" />
+                <ScalarProperty Name="isCompleted" ColumnName="isCompleted" />
+                <ScalarProperty Name="number_of_run" ColumnName="number_of_run" />
+                <ScalarProperty Name="id_market" ColumnName="id_market" />
+                <ScalarProperty Name="ftp_url" ColumnName="ftp_url" />
+                <ScalarProperty Name="ip_address" ColumnName="ip_address" />
+                <ScalarProperty Name="host_name" ColumnName="host_name" />
+                <ScalarProperty Name="market_name" ColumnName="market_name" />
+                <ScalarProperty Name="transaction_status" ColumnName="transaction_status" />
+                <ScalarProperty Name="time_moveFiles" ColumnName="time_moveFiles" />
+                <ScalarProperty Name="DBName" ColumnName="DBName" />
+                <ScalarProperty Name="total_file_uploaded" ColumnName="total_file_uploaded" />
+                <ScalarProperty Name="id_server_file" ColumnName="id_server_file" />
+                <ScalarProperty Name="file_name" ColumnName="file_name" />
+                <ScalarProperty Name="date_created" ColumnName="date_created" />
+                <ScalarProperty Name="date_finished" ColumnName="date_finished" />
+                <ScalarProperty Name="is_finished" ColumnName="is_finished" />
+                <ScalarProperty Name="file_status" ColumnName="file_status" />
+                <ScalarProperty Name="time_moved_NQWeb" ColumnName="time_moved_NQWeb" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblFTPFiles">
+            <EntityTypeMapping TypeName="REMISModel.tblFTPFile">
+              <MappingFragment StoreEntitySet="tblFTPFile">
+                <ScalarProperty Name="time_moved_NQWeb" ColumnName="time_moved_NQWeb" />
+                <ScalarProperty Name="file_status" ColumnName="file_status" />
+                <ScalarProperty Name="is_finished" ColumnName="is_finished" />
+                <ScalarProperty Name="date_finished" ColumnName="date_finished" />
+                <ScalarProperty Name="date_created" ColumnName="date_created" />
+                <ScalarProperty Name="file_name" ColumnName="file_name" />
+                <ScalarProperty Name="id_client_transaction" ColumnName="id_client_transaction" />
+                <ScalarProperty Name="id_server_transaction" ColumnName="id_server_transaction" />
+                <ScalarProperty Name="id_server_file" ColumnName="id_server_file" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblFTPTransactions">
+            <EntityTypeMapping TypeName="REMISModel.tblFTPTransaction">
+              <MappingFragment StoreEntitySet="tblFTPTransaction">
+                <ScalarProperty Name="total_file_uploaded" ColumnName="total_file_uploaded" />
+                <ScalarProperty Name="DBName" ColumnName="DBName" />
+                <ScalarProperty Name="time_moveFiles" ColumnName="time_moveFiles" />
+                <ScalarProperty Name="transaction_status" ColumnName="transaction_status" />
+                <ScalarProperty Name="market_name" ColumnName="market_name" />
+                <ScalarProperty Name="host_name" ColumnName="host_name" />
+                <ScalarProperty Name="ip_address" ColumnName="ip_address" />
+                <ScalarProperty Name="ftp_url" ColumnName="ftp_url" />
+                <ScalarProperty Name="id_market" ColumnName="id_market" />
+                <ScalarProperty Name="number_of_app_fail" ColumnName="number_of_app_fail" />
+                <ScalarProperty Name="number_of_run" ColumnName="number_of_run" />
+                <ScalarProperty Name="isCompleted" ColumnName="isCompleted" />
+                <ScalarProperty Name="username" ColumnName="username" />
+                <ScalarProperty Name="date_end" ColumnName="date_end" />
+                <ScalarProperty Name="date_started" ColumnName="date_started" />
+                <ScalarProperty Name="transaction_type" ColumnName="transaction_type" />
+                <ScalarProperty Name="id_client_transaction" ColumnName="id_client_transaction" />
+                <ScalarProperty Name="id_server_transaction" ColumnName="id_server_transaction" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="REMIS">
+        <EntityTypeShape EntityType="REMISModel.tblCarrier" Width="1.5" PointX="5.75" PointY="0.75" Height="2.3648893229166665" IsExpanded="true" />
+        <EntityTypeShape EntityType="REMISModel.tblGTPIssue" Width="1.5" PointX="2.75" PointY="5.75" Height="2.7494921874999996" IsExpanded="true" />
+        <EntityTypeShape EntityType="REMISModel.tblMarket" Width="1.5" PointX="5.75" PointY="4.75" Height="2.5571907552083335" IsExpanded="true" />
+        <EntityTypeShape EntityType="REMISModel.tblStatusInfo" Width="1.5" PointX="7.75" PointY="0.75" Height="1.5956835937499996" IsExpanded="true" />
+        <EntityTypeShape EntityType="REMISModel.View_AllFiles" Width="1.5" PointX="7.75" PointY="3.75" Height="5.634013671875" IsExpanded="true" />
+        <EntityTypeShape EntityType="REMISModel.tblFTPFile" Width="1.5" PointX="3" PointY="10.875" Height="2.9417936197916674" />
+        <EntityTypeShape EntityType="REMISModel.tblFTPTransaction" Width="1.5" PointX="0.75" PointY="10" Height="4.672506510416671" />
+        <AssociationConnector Association="REMISModel.FK_tblFTPFile_tblFTPTransaction" >
+          <ConnectorPoint PointX="2.25" PointY="12.345896809895834" />
+          <ConnectorPoint PointX="3" PointY="12.345896809895834" />
+        </AssociationConnector>
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>
